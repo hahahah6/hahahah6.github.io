@@ -10,7 +10,7 @@
 # locale                   : "en-US"
 locale                   : "CN"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Hongyi Ruan's Academic Portfolio" # The title of your site
+title                    : "I'm Hongyi Ruan" # The title of your site
   # This appears in the top left of the navigation bar and in the HTML title tag
   # You can override it on a per-page basis by setting the "title" variable in a page or post's front matter
   # You can also control the separator between your site title and page title with the "title_separator" variable
