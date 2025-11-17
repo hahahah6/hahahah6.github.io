@@ -1,7 +1,6 @@
 ---
 title: FreeRTOS_StudyNotes
 date: 2025-11-17
-auther: hahahah6
 permalink: /posts/2025/11/FreeRTOS_StudyNotes/
 tags:
   - embedded-systems
@@ -15,7 +14,6 @@ tags:
 
 以下是 FreeRTOS 任务的四种状态及其转换关系：
 
-  
 
 ```mermaid
 graph RL
@@ -27,8 +25,6 @@ graph RL
     D -- "事件触发" --> B
 ```
 
-
-  
 
 ## 状态说明
 
