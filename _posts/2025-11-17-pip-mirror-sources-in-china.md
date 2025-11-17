@@ -8,14 +8,12 @@ tags:
   - mirror sources
 ---
 
-# pip国内镜像源
+# pip Mirror Sources in China
 
-清华源：`-i https://pypi.tuna.tsinghua.edu.cn/simple/`
+Use the `-i` flag with `pip` to point at one of the following high-speed mirrors located in mainland China:
 
-阿里云：`-i http://mirrors.aliyun.com/pypi/simple/`
-
-中国科技大学：`-i https://pypi.mirrors.ustc.edu.cn/simple/`
-
-华中科技大学：`-i http://pypi.hustunique.com/simple/`
-
-上海交通大学：`-i https://mirror.sjtu.edu.cn/pypi/web/simple/`
+- Tsinghua University: `-i https://pypi.tuna.tsinghua.edu.cn/simple/`
+- Alibaba Cloud: `-i http://mirrors.aliyun.com/pypi/simple/`
+- University of Science and Technology of China: `-i https://pypi.mirrors.ustc.edu.cn/simple/`
+- Huazhong University of Science and Technology: `-i http://pypi.hustunique.com/simple/`
+- Shanghai Jiao Tong University: `-i https://mirror.sjtu.edu.cn/pypi/web/simple/`
