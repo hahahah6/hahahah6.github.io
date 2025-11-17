@@ -1,6 +1,13 @@
 ---
 title: FreeRTOS_StudyNotes
 date: 2025-11-17
+permalink: /posts/2025/11/FreeRTOS_StudyNotes/
+tags:
+  - embedded-systems
+  - freertos
+  - stm32
+---
+
 # FreeRTOS Task State Transition Diagram
 
 Below are the four FreeRTOS task states and how they transition between each other:
