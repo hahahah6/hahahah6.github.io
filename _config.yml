@@ -32,7 +32,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Striving wholeheartedly for the passions I cherish"
   location         : "Zhe Jiang, China"
-  employer         : ""
+  employer         : #""
   uri              : https://rhyhome.com # URL
   email            : "hahahahhh6@outlook.com" 
 
