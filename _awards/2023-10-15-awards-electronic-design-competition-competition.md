@@ -1,6 +1,6 @@
 ---
 title: "National College Student Electronic Design Competition, Second Prize"
-# collection: teaching
+collection: awards
 type: "Competition"
 permalink: /awards/2023-10-15-awards-electronic-design-competition-competition
 venue: "Shandong University"
